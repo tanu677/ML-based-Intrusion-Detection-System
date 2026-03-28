@@ -1,0 +1,32 @@
+{
+  "104.18.39.21": {
+    "reason": "Anomaly",
+    "severity": "LOW",
+    "blocked_at": "2026-03-12T15:14:19.812187",
+    "count": 6
+  },
+  "162.159.133.234": {
+    "reason": "Anomaly",
+    "severity": "LOW",
+    "blocked_at": "2026-03-12T15:14:19.950778",
+    "count": 6
+  },
+  "172.20.48.170": {
+    "reason": "Anomaly",
+    "severity": "LOW",
+    "blocked_at": "2026-03-12T15:14:20.094200",
+    "count": 6
+  },
+  "104.16.103.112": {
+    "reason": "Anomaly",
+    "severity": "LOW",
+    "blocked_at": "2026-03-12T15:14:20.217550",
+    "count": 6
+  },
+  "57.144.57.32": {
+    "reason": "Anomaly",
+    "severity": "LOW",
+    "blocked_at": "2026-03-12T15:14:20.376942",
+    "count": 6
+  }
+}

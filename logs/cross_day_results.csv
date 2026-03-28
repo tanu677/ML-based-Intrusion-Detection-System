@@ -1,0 +1,5 @@
+Attack Type,Best Threshold,Detection Rate,F1,FPR,FNR,AUC
+Brute Force,71th pct,29.0%,0.3635,24.72%,47.13%,0.6162
+DDoS,54th pct,45.7%,0.7243,25.18%,17.50%,0.6963
+Infiltration,50th pct,34.3%,0.2814,34.61%,66.53%,0.4911
+Web Attack,99th pct,1.0%,0.0290,0.99%,76.34%,0.5119

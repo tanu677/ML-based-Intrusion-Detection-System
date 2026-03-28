@@ -1,0 +1,5 @@
+Attack Type,Total Flows,Detected,Missed,Detection Rate
+Brute Force,619346,639,618707,0.1%
+DDoS,561396,25,561371,0.0%
+Infiltration,249170,1176,247994,0.5%
+Web Attack,829405,919,828486,0.1%
